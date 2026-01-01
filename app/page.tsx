@@ -17,7 +17,7 @@ export default function Home() {
 
       <Image
         className="h-full"
-        src="/mutlu.png"
+        src="/mutlu.PNG"
         alt="Mutlu gorseli"
         width={1206}
         height={3245}
