@@ -22,6 +22,7 @@ export default function Home() {
         width={1206}
         height={3245}
         priority
+        unoptimized
       />
 
       <button
