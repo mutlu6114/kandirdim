@@ -17,8 +17,8 @@ export default function Home() {
 
       <Image
         className="h-full"
-        src="mutlu.png"
-        alt="Mutlu görseli"
+        src="/mutlu.png"
+        alt="Mutlu gorseli"
         width={1206}
         height={3245}
         priority
